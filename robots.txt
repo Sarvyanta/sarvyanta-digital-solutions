@@ -1,1 +1,4 @@
+User-agent: *
+Allow: /
 
+Sitemap: https://digitalmarketing.sarvyanta.com/sitemap.xml
